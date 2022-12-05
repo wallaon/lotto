@@ -9,4 +9,4 @@
 "https://partner.bybit.com/b/lottoking",
 "https://www.bitget.com/expressly?channelCode=llh4&vipCode=rawk&languageType=0",
 ""],
-"notification":"."};
+"notification":"update."};
