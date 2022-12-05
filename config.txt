@@ -1,4 +1,4 @@
-{"ver":"1.0",
+{"ver":"1.1",
 "referralLinks":
 ["https://accounts.binance.com/en/register?ref=R6SQTSPA",
 "https://partner.bybit.com/b/lottoking",
