@@ -1,0 +1,12 @@
+{"ver":"1.0",
+"referralLinks":
+["https://accounts.binance.com/en/register?ref=R6SQTSPA",
+"https://partner.bybit.com/b/lottoking",
+"https://www.bitget.com/expressly?channelCode=llh4&vipCode=rawk&languageType=0",
+""],
+"useLinks":
+["https://accounts.binance.com/en/register?ref=R6SQTSPA",
+"https://partner.bybit.com/b/lottoking",
+"https://www.bitget.com/expressly?channelCode=llh4&vipCode=rawk&languageType=0",
+""],
+"notification":""}
