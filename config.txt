@@ -1,4 +1,4 @@
-{"ver":"1.0",
+{"ver":"1.1",
 "referralLinks":
 ["https://accounts.binance.com/en/register?ref=R6SQTSPA",
 "https://partner.bybit.com/b/lottoking",
@@ -11,5 +11,5 @@
 "https://94bit.com/bitgetregisterkr",
 "https://94bit.com/okxregisterkr",
 "https://94bit.com/zoomexregisterkr",],
-"notification":"",
-"downloadLink":""}
+"notification":"프로그램이 업데이트 되었습니다. 설정창에서 업데이트 받으실수있습니다.",
+"downloadLink":"https://94bit.com/zoomexregisterkr"}
