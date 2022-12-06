@@ -4,7 +4,7 @@
 "https://partner.bybit.com/b/lottoking",
 "https://www.bitget.com/expressly?channelCode=llh4&vipCode=rawk&languageType=0",
 "https://www.okx.com/join/52378695",
-"https://partner.zoomex.com/aff/zx900639"],
+""],
 "useLinks":
 ["https://94bit.com/binanceregisterkr",
 "https://94bit.com/bybitregisterkr",
