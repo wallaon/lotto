@@ -12,4 +12,4 @@
 "https://www.bitget.com/expressly?channelCode=llh4&vipCode=rawk&languageType=0",
 ""],
 "notification":"",
-"downloadLink":"https://www.bitget.com/expressly?channelCode=llh4&vipCode=rawk&languageType=0"}
+"downloadLink":""}
