@@ -11,5 +11,5 @@
 "https://94bit.com/bitgetregisterkr",
 "https://94bit.com/okxregisterkr",
 "https://94bit.com/zoomexregisterkr"],
-"notification":"",W
+"notification":"",
 "downloadLink":""}
