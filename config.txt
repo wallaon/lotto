@@ -1,5 +1,5 @@
-{"ver":"1.0",
-"referralLinks":
+//{"ver":"1.0",
+//"referralLinks":
 ["https://accounts.binance.com/en/register?ref=SSLE3ZD7",
 "https://partner.bybit.com/b/lottoking",
 "https://www.bitget.com/expressly?channelCode=llh4&vipCode=rawk&languageType=0",
